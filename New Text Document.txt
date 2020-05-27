@@ -1,0 +1,6 @@
+//flex Box
+//grid in css
+//Bootstrap
+//child operator
+//table
+//sass
