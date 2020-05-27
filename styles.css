@@ -1,11 +1,15 @@
 h1{
 	font-family:sans-serif;
-	color:Red;
 	text-align:center;
 }
 
 h2{
 	font-family:calibri;
-	color:Brown;
 	text-align:center;
 }	
+
+body
+{
+	background-image:url("background.jpg");
+	background-size:100%;
+}
